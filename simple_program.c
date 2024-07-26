@@ -39,7 +39,7 @@ int main(int argc, char **argv) {
                 break;
             
             case 'j':
-                puts("Jerry is the most handsome professor in the world!\n");
+                puts("Jerry is the most handsome professor in the universe!\n");
                 break;
 	}
     }
