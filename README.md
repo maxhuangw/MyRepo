@@ -1,4 +1,4 @@
 ﻿# A simple program
 
-## build
-`make`
+## usage
+`./simple_program -h`
