@@ -2,3 +2,6 @@
 
 ## usage
 `./simple_program -h`
+
+## build
+`make`
